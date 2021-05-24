@@ -1,6 +1,6 @@
 # MoscaBranca-Classificador-TG
 
-## Identificação e contagem de insetos da espécie Bemísia tabaci em amarmadilhas adesivas amarelas. 
+## Identificação e contagem de insetos da espécie _Bemísia tabaci_ em amarmadilhas adesivas amarelas. 
 
 ## Scripts 
 ### 'processaImg.m': faz o processamento das imagens e gera o vetor de características usado como entrada de alguns modelos classificadores.
